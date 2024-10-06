@@ -29,7 +29,8 @@ cd Zerodeactyl-installer.
 
 # Run the Installer:
 ```sudo ./zerdactyl.sh```
-# To check:
-```sudo systemctl status pterodactyl-panel
+# To check panel:
+```sudo systemctl status pterodactyl-panel```
+# to check wings
 ```sudo systemctl status pterodactyl-wing```
 
