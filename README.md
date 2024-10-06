@@ -22,8 +22,8 @@ Zerodeactyl is a Bash script designed for automating the installation of the Pte
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/AsifRaza-Pro/Zerodeactyl-installer.git
-   
-cd Zerodeactyl-installer.         
+# Go to directory 
+```cd Zerodeactyl-installer```         
 # Make the Script Executable:
 ```chmod +x zerdactyl.sh```
 
