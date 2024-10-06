@@ -25,10 +25,11 @@ Zerodeactyl is a Bash script designed for automating the installation of the Pte
    
 cd Zerodeactyl-installer.         
 # Make the Script Executable:
-```chmod +x zerdactyl.sh
+```chmod +x zerdactyl.sh```
+
 # Run the Installer:
-```sudo ./zerdactyl.sh
+```sudo ./zerdactyl.sh```
 # To check:
 ```sudo systemctl status pterodactyl-panel
-```sudo systemctl status pterodactyl-wing
+```sudo systemctl status pterodactyl-wing```
 
